@@ -1,0 +1,86 @@
+-Hi
+ hello, how are you
+
+-im fine
+ That's great, im also fine
+
+-What is the fee structure
+ https://www.getmyuni.com/college/birla-institute-of-technology-ranchi-bit-mesra-courses-fees
+
+-when was this institute established
+ This institute was established in  1955
+
+-courses offer
+ ug/pg/phd
+
+-faculty qualification
+ most of the faculty  are phd holder
+
+-Placement scope
+ https://bitmesra.ac.in/Show_Other_Department?cid=1&deptid=183
+
+-college status
+ its among the top 50 colleges in india
+
+-tell me more about bit Mesra
+ https://en.wikipedia.org/wiki/Birla_Institute_of_Technology,_Mesra
+
+-center in india and offsore
+ please visit this-https://en.wikipedia.org/wiki/Birla_Institute_of_Technology,_Mesra#Centres_in_India_and_offshore
+
+
+-Admission inquiry
+ https://www.bitmesra.ac.in/Find_Query_Results?cid=1&q=admission&cx=003581609492412331982%3aohsyseezpu4&cof=FORID%3a9
+
+-Results
+ https://www.bitmesra.ac.in/Find_Query_Results?cid=1&q=result&cx=003581609492412331982%3aohsyseezpu4&cof=FORID%3a9
+
+Good morning, how are you?
+  - I am doing well, how about you?
+  - I'm also good.
+  - That's good to hear.
+  - Yes it is.
+  - Hello
+  - Hi
+  - How are you doing?
+  - I am doing well.
+  - That is good to hear
+  - Yes it is.
+  - Can I help you with anything?
+  - Yes, I have a question.
+  - What is your question?
+  - Is this college is good?
+  - yes it is
+  - Thank you
+  - welcome
+- - How are you doing?
+  - I am doing well, how about you?
+  - I am also good.
+  - That's good.
+- - Have you heard the news?
+  - What good news?
+- - What is your favorite book?
+  - I can't read.
+  - So what's your favorite color?
+  -Blue
+ Who are you?
+- - I am working on a project
+  - What are you working on?
+  - I am making chatbot
+  - Tell me about your self.
+  - What do you want to know?
+  - Are you a robot?
+  - Yes I am.
+  - What is it like?
+  - What is it that you want to know?
+  - How do you work?
+  - Its complicated.
+  - It seems your familiar with the  Python
+  - I am.
+
+- - Are you a programmer?
+  - Of course I am a programmer.
+  - What languages do you like to use?
+  - I use Python, Java and C++ quite often.
+  - I use Python quite a bit myself.
+  - I'm not incredibly fond of Java
